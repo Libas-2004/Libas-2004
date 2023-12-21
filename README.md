@@ -62,6 +62,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :<br><br><br>🚀 Top Languages:<br>             <br>    1. JavaScript<br>    2. c<br><br>🌟 Contributions:<br><br>   * Total Commits: 0<br>   * Pull Requests: 0<br>   * Issues Created: 0<br><br>🏆Focuses:<br>     I. Front-end Development<br><br>Let's code together and make an impact! 💻✨</h3>
+<h3 align="left">🔥   My Stats :<br><br><br>🚀 Top Languages:<br>             <br>    1. JavaScript<br>    2. c<br><br>🌟 Practicing In:<br><br>   * Javascript<br>   * FastApi<br><br>🏆Focuses :<br>     I. Front-end Development<br><br>Let's code together and make an impact! 💻✨</h3>
 
 ###
