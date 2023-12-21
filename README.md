@@ -65,9 +65,3 @@
 <h3 align="left">🔥   My Stats :<br><br><br>🚀 Top Languages:<br>             <br>    1. JavaScript<br>    2. c<br><br>🌟 Contributions:<br><br>   * Total Commits: 5<br>   * Pull Requests: 2<br>   * Issues Created: 1<br><br>🏆Focuses:<br>     I. Front-end Development<br><br>Let's code together and make an impact! 💻✨</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
