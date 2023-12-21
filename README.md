@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning JavaScript to enhance my skill set.<br>- ⚡ In my free time I love to explore new coding techniques, work on side projects</p>
+<p align="left">I'm Libas, I'm a Web Developer<br><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning JavaScript to enhance my skill set.<br>- ⚡ In my free time I love to explore new coding techniques, work on side projects</p>
 
 ###
 
