@@ -14,7 +14,7 @@
   <a href="https://x.com/Choco_Libas?t=GAM0ex3aHPN2murchJFofA&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/_._restless_soul?igsh=Yms4emc5bmZ2YmRp" target="_blank">
+  <a href="https://www.instagram.com/mr.phoneix_200?igsh=Yms4emc5bmZ2YmRp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:nellailibas2004@gmail.com" target="_blank">
@@ -62,6 +62,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :<br><br><br>🚀 Top Languages:<br>             <br>    1. JavaScript<br>    2. c<br><br>🌟 Practicing In:<br><br>   * Javascript<br>   * FastApi<br><br>🏆Focuses :<br>     I. Front-end Development<br><br>Let's code together and make an impact! 💻✨</h3>
+<h3 align="left">🔥   My Stats :<br><br><br>🚀 Top Languages:<br>             <br>    1. JavaScript<br>    2. c<br><br>🌟 Practicing In:<br><br>   * Javascript<br>   * JAVA<br><br>🏆Focuses :<br>     I. Front-end Development<br><br>Let's code together and make an impact! 💻✨</h3>
 
 ###
